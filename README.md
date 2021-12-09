@@ -1,4 +1,4 @@
-Hi, im Ayden Armstrong 👋
+
 
 
 - 🔭 I’m currently working on ETF fee comparison calculator 
