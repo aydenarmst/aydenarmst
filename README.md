@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on ETF fee comparison calculator 
 - 🌱 I’m currently learning web3.js, MatLab
 - 🤔 I’m looking for help with blockchain development
-- 💬 Ask me about anything!
 - 📫 How to reach me: [Linked-in](www.linkedin.com/in/ayden-armstrong-151b861b7)
-- ⚡ Fun fact: Snowboarding at mount baker is heaven to me 
 - Majoring in Computer science
 - Proficient in Python, C, C++, CSS, SCSS, html, javascript
 
