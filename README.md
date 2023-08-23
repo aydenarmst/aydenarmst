@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: ETF fee comparison calculator 
-- 🌱 I’m currently learning: Djnago, React
+- 🌱 I’m currently learning: Django, React
 - 📫 How to reach me: [Linked-in](www.linkedin.com/in/ayden-armstrong)
 
 
